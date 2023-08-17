@@ -110,6 +110,7 @@
         align-items: center;
         text-decoration: none;
         color: var(--preto);
+        display: flex;
     }    
     .cabeçalho{
         padding: 0 2em;
